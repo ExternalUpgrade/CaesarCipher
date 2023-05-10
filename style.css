@@ -19,7 +19,7 @@ input[type="text"] {
   border-radius: 5px;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   width: 80%;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 button {
@@ -30,7 +30,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 button:hover {
