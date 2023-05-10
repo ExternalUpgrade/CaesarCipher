@@ -1,5 +1,5 @@
 function encrypt() {
-    const shift = 3; // define the shift value
+    const shift = document.getElementById("key").value;
     const plaintext = document.getElementById("input").value; // get the input text
     let ciphertext = ""; // initialize an empty string for the output text
     
