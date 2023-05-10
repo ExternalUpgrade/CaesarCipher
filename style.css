@@ -14,10 +14,12 @@ p {
 }
 
 input[type="text"] {
-	padding: 10px;
-	border: none;
-	border-radius: 5px;
-	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 button {
